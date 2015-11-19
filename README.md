@@ -1,0 +1,1 @@
+This is a redoing of the Boris Bikes project from Makers Academy using Ruby and RSpec. I am using it as an example of learning TDD to teach my friend Tim Stimpson.
